@@ -1,1 +1,1 @@
-include ':app', ':_A04_View_01', ':_A04_View_02', ':_A04_View_03', ':_A04_View_04', ':_A04_View_05', ':_A04_View_06', ':_A04_View_07', ':_A04_View_08', ':_A04_View_09', ':_A04_View_10'
+include ':app'
